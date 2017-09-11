@@ -1,4 +1,7 @@
 Riverz Flores 
 Homework 1 - User Login
 
-Login : Riverzflores18@@ (Valid)
+Login : badusername (invalid)
+-- no uppercase letter
+-- no digit
+-- invalid special character
